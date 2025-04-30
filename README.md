@@ -1,6 +1,6 @@
 # Automated Expense Tracker
 
-A Python-based expense tracking application that helps you manage and analyze your expenses efficiently.
+A Python-based **Expense Tracking Application** that helps you manage and analyze your expenses efficiently.
 
 ## Features
 
